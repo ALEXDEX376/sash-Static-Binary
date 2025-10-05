@@ -1,2 +1,3 @@
-# sash-Static-Binary
-Static Binaries for sash  [Stand-Alone SHell].
+# sash Binaries
+https://members.tip.net.au/~dbell/
+Version 3.8
